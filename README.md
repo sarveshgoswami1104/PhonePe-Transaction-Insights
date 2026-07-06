@@ -151,7 +151,7 @@ Machine Learning Engineer | AI & Data Science Enthusiast
 
 GitHub: https://github.com/sarveshgoswami1104
 
-LinkedIn: *(Add your LinkedIn profile URL here)*
+
 
 ---
 
